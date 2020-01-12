@@ -1,6 +1,6 @@
 # Kaggle In Action
 
-## Instruction
+## Working Environment
 ```
 conda create --name kaggle python=3.7 pip
 conda activate kaggle
